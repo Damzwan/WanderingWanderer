@@ -40,24 +40,26 @@ The inner workings of the Dutch payment invitation mechanisms started to become 
 I gathered the last of my energy and managed to make the transfer to the correct account on my own. I showed the confirmation to the yoga girl and, like a desperate apprentice begging for his master’s approval, I practically knelt before her, hoping she would end my suffering. She gave a positive nod, handed over the money, and we started moving towards the taxi area. They insisted that I tag along with them, though their plans were as inconsistent as the German train system. One minute they were supposed to meet someone from Workaway, the next they wanted to go trekking and stay at a hostel.
 
 During our walk, I tried to update my sister about the latest developments while also trying to appease her. The former went better than the latter. She bombarded me with questions from all sides: “Bloody hell, what should I do?”, “What went wrong?”, “Can you trust this girl?”, “Will we get our money back?” While trying to answer her questions, I was dodging honking cars from every direction. It was rush hour in Kathmandu. The yoga girls had found a cab through a platform similar to Uber, but it couldn’t enter the airport. All the driver could scream was “MAIN ROAD! MAIN ROAD!” So, we tried to find the MAIN ROAD, but it was dark, and we were primarily focused on staying alive. I tried to use my haggling skills learned in India to strike a good deal, but the drivers were adamant about the inflated price. Meanwhile, my sister thought I was talking to her:
-- “Bhaji (brother in Nepalese), do you drive to Thamel?”
-* 500 rupees
-- “That’s way too much bhaji, on uber it costs 200”
-+ “Damian, who is Bhaji?! What 500?”
-* *Doesn’t even have the motivation to answer back*
+
+“Bhaji (brother in Nepalese), do you drive to Thamel?”<br><br>
+"500 rupees"<br><br>
+“That’s way too much bhaji, on uber it costs 200”<br><br>
+“Damian, who is Bhaji?! What 500?”<br><br>
+*Doesn’t even have the motivation to answer back*<br>
 
 After a while, we managed to find our driver, but the car was ridiculously small. There was no way it could fit five people, let alone our enormous backpacks, which could double as our homes. Like every Nepali would say: “No problem.” The idea of earning a decent amount of money far outweighed the risk of us losing our bags. He threw our bags on top and loosely bound them with a piece of rope. It was a perfect balance between tightness and slack, showcasing a true mastery of minimal effort.
 
 Finally, we were on our way. The yoga girls regained some energy and struck up a conversation with the driver. I decided to check on the payment situation with my sister. She told me she’d tried to chat with an employee named An, but as soon as she explained her situation, An left the chat. It was a Friday afternoon, the last hour before the weekend, so An clearly didn’t give enough fucks. I tried to start a chat as well, only to discover I was also talking to An. My hope that An would be more patient with me was indeed unfounded; An truly didn’t give a fuck and left the chat too.
 
 By this time, we arrived at the homestay where the girls were staying. I stepped out and was the first one to greet the homeowner. The conversation went something like this: 
-Shake hands
-Owner: “Hi, I’m excited to meet you!” 
-Me: “Me too, but it’s also time to say goodbye already.” 
-Owner: “Huh?” 
-Me: “By the way, I know it’s recently been made illegal to do the Annapurna trek alone, but… you know, it should still be possible, right?” 
-Owner: “Yeah, you’ll be fine”
- Me: “Yay, see you!”
-Owner: “See you :D”
+Shake hands<br><br>
+**Owner**: “Hi, I’m excited to meet you!”<br><br>
+**Me**: “Me too, but it’s also time to say goodbye already.”<br><br>
+**Owner**: “Huh?”<br><br>
+**Me**: “By the way, I know it’s recently been made illegal to do the Annapurna trek alone, but… you know, it should still be possible, right?” <br><br>
+**Owner**: “Yeah, you’ll be fine”<br><br>
+ **Me**: “Yay, see you!”<br><br>
+**Owner**: “See you :D”<br><br>
 It was time to part ways with the yoga girls. We hugged each other tightly like old friends and wished each other safe travels. That’s one of the things I really love about the travel community. Those goodbyes feel so sincere, even though you might have only met each other for a few minutes.
+
 I hopped into the cab and headed to the hostel I’d booked last minute. The drive was short and pleasant. It felt like I could finally relax. I had a place to sleep and enough money to survive at least for a little while. The cab driver complained about the yoga girls, but all I could do was laugh along. When I arrived at the hostel, the second I walked in, I was greeted with a loud scream from a strong, small, and chubby man. He gave me a firm handshake and a hug. And well, my readers… This would be the start of yet another adventure.
