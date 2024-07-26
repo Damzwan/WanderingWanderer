@@ -5,7 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://damzwan.github.io',
-	base: "wanderingwanderer",
+	site: 'https://damzwan.github.io/wanderingwanderer',
 	integrations: [mdx(), sitemap()],
 });
